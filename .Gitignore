@@ -1,0 +1,11 @@
+# Compiled executables and object files
+*.o
+*.exe
+a.out
+
+# OS-specific files
+.DS_Store
+
+# Common build directories
+bin/
+build/
